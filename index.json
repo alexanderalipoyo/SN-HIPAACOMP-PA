@@ -5,16 +5,16 @@
     "passes": 974,
     "pending": 48,
     "failures": 120,
+    "start": "2026-03-02T02:25:48.718Z",
+    "end": "2026-03-02T12:12:38.077Z",
+    "duration": 32198877,
     "testsRegistered": 1165,
     "passPercent": 83.60515021459227,
     "pendingPercent": 4.120171673819742,
     "other": 0,
     "hasOther": false,
     "skipped": 23,
-    "hasSkipped": true,
-    "start": "2026-03-02T02:25:48.718Z",
-    "end": "2026-03-02T12:12:38.077Z",
-    "duration": 35209359
+    "hasSkipped": true
   },
   "results": [
     {
